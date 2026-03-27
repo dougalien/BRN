@@ -1,4 +1,4 @@
 streamlit
-requests
-python-dotenv
-streamlit-geolocation
+numpy
+matplotlib
+openai
