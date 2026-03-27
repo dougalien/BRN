@@ -3,7 +3,7 @@ import random
 
 import numpy as np
 import streamlit as st
-import matplotlib as plt
+import matplotlib.pyplot as plt
 from openai import OpenAI
 
 # --------- Perplexity / Sonar client ---------
