@@ -312,4 +312,3 @@ Reference these numbers explicitly so they can connect their question to what is
             st.session_state.chat_history.append(
     {"role": "assistant", "content": f"**Q:** {user_q}\n\n{answer}"}
 )
-st.rerun()
